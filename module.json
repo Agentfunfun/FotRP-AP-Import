@@ -3,9 +3,12 @@
   "title": "FunFun FotRP AP Import",
   "version": "1.0.0",
   "compatibility": {
-    "minimum": "14",
-    "verified": "14"
+    "minimum": "11",
+    "verified": "12"
   },
+  "url": "https://github.com/AgentFunFun/FotRP-AP-Import",
+  "manifest": "https://raw.githubusercontent.com/AgentFunFun/FotRP-AP-Import/main/module.json",
+  "download": "https://github.com/AgentFunFun/FotRP-AP-Import/archive/refs/heads/main.zip",
   "authors": [
     {
       "name": "FunFun",
