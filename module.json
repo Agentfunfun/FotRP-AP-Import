@@ -1,4 +1,25 @@
-"packs": [
+{
+  "id": "funfun-fotrp-ap",
+  "title": "FunFun FotRP AP",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "14"
+  },
+  "url": "https://github.com/Agentfunfun/FotRP-AP-Import",
+  "manifest": "https://raw.githubusercontent.com/Agentfunfun/FotRP-AP-Import/main/module.json",
+  "download": "https://github.com/Agentfunfun/FotRP-AP-Import/archive/refs/heads/main.zip",
+  "authors": [
+    {
+      "name": "FunFun",
+      "discord": "FunFun1",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
     {
       "name": "funfun-fotrp-ap",
       "label": "FunFun FotRP AP",
@@ -24,3 +45,48 @@
       "flags": {}
     }
   ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ],
+    "requires": [
+      {
+        "id": "world-explorer",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "fist-of-the-ruby-phoenix-addons",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "fists-of-the-ruby-phoenix-map-remake-by-kalnix",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "vtta-tokenizer",
+        "type": "module",
+        "compatibility": {}
+      }
+    ],
+    "recommends": [
+      {
+        "id": "monks-active-tiles",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "fxmaster",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": ""
+}
