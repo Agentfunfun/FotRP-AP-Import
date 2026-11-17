@@ -1,0 +1,26 @@
+"packs": [
+    {
+      "name": "funfun-fotrp-ap",
+      "label": "FunFun FotRP AP",
+      "path": "packs/funfun-fotrp-ap",
+      "type": "Adventure",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "fotrp-maps",
+      "label": "FotRP Maps",
+      "path": "packs/fotrp-maps",
+      "type": "Scene",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
