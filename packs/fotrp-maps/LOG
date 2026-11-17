@@ -1,0 +1,8 @@
+2026/11/17-16:34:20.223 4d44 Recovering log #158
+2026/11/17-16:34:20.227 4d44 Delete type=0 #158
+2026/11/17-16:34:20.229 4d44 Delete type=3 #156
+2026/11/17-17:26:48.523 5c58 Level-0 table #163: started
+2026/11/17-17:26:48.523 5c58 Level-0 table #163: 0 bytes OK
+2026/11/17-17:26:48.524 5c58 Delete type=0 #161
+2026/11/17-17:26:48.525 5c58 Manual compaction at level-0 from '!folders!0ZavuIrJv7gwKQBK' @ 72057594037927935 : 1 .. '!scenes.walls!zn9t44rEGWOWZBA2.zlUif3pNzegQnM5i' @ 0 : 0; will stop at (end)
+2026/11/17-17:26:48.525 5c58 Manual compaction at level-1 from '!folders!0ZavuIrJv7gwKQBK' @ 72057594037927935 : 1 .. '!scenes.walls!zn9t44rEGWOWZBA2.zlUif3pNzegQnM5i' @ 0 : 0; will stop at (end)
